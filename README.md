@@ -44,6 +44,8 @@ The Arduino script controls a stepper motor and valves to perform the operations
 - 12V and 24V power supply
 - Diodes (for back EMF)
 
+![Hardware Setup](https://github.com/niamhmulholland/Nanointegration/blob/main/user_interface_demo.png)
+
 ### Usage
 
 1. Upload the provided Arduino script to your Arduino board.
